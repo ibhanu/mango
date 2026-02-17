@@ -39,7 +39,7 @@ Mango isn't just an affirmation app; it's a tool for mental architecture. Inspir
   &nbsp;&nbsp;
   <img src="screenshots/favorites.png" width="200" alt="Favorites - Searchable Wisdom" />
   &nbsp;&nbsp;
-  <img src="screenshots/widget.png" width="200" alt="Home Screen Widget - Minimalist Display" />
+  <img src="screenshots/homescreen_widget.png" width="200" alt="Home Screen Widget - Live Display" />
 </p>
 
 ---
